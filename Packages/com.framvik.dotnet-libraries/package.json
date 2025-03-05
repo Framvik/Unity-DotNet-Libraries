@@ -1,0 +1,7 @@
+{
+  "name": "com.framvik.dotnet-libraries",
+  "version": "0.0.0",
+  "displayName": "Framvik Unity DotNet Libraries",
+  "description": "Contains utility scripts and functionality that are used by various Unity projects but does not depend on any Unity namespaces.",
+  "unity": "2022.3"
+}
